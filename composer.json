@@ -1,10 +1,7 @@
 {
     "name": "alexsoft-software/phpbcl",
     "description": "PHP Backwards Compatibility Library (phpBCL).",
-    "license": [
-        "proprietary", 
-        "AGL-F (Ascoos General License - Free)"
-    ],
+    "license": "proprietary",
     "homepage": "https://apps.ascoos.com/phpBCL",
     "authors": [
         {
